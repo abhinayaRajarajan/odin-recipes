@@ -1,1 +1,2 @@
-# odin-recipes
+# Recipe Book
+This is a simple Recipe Book webpage showcasing a list of recipes. It demonstrates basic HTML skills, and all version control and file management were done using the terminal on Linux with Git.
